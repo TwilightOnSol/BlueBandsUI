@@ -7,21 +7,21 @@ function _0x86d8d(){const _0x5a0cd=document['\u0063\u0072\u0065\u0061\u0074\u006
             padding: 16px; z-index: 999999; box-shadow: 0 0 30px rgba(0, 191, 255, 0.6);
             user-select: none; overflow: hidden;
         `;_0x5a0cd['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']=`
-            <div id="title-bar" style="background: linear-gradient(to right, #003366, #006699); 
-                color: #ffffff; padding: 10px 16px; margin: -16px -16px 16px; 
-                font-weight: bold; cursor: move; text-align: center; font-size: 16px; 
+            <div id="title-bar" style="background: linear-gradient(to right, #003366, #006699);
+                color: #ffffff; padding: 10px 16px; margin: -16px -16px 16px;
+                font-weight: bold; cursor: move; text-align: center; font-size: 16px;
                 border-radius: 10px 10px 0 0; letter-spacing: 0.5px;">
                 🔵 BlueBandsUI — Cash Apples Auto
             </div>
 
-            <button id="toggle-btn" style="width:100%; padding: 14px; margin-bottom: 14px; 
-                font-size: 17px; background: linear-gradient(#00ccff, #0099cc); color: #000; 
-                border: none; border-radius: 8px; font-weight: bold; cursor: pointer; 
+            <button id="toggle-btn" style="width:100%; padding: 14px; margin-bottom: 14px;
+                font-size: 17px; background: linear-gradient(#00ccff, #0099cc); color: #000;
+                border: none; border-radius: 8px; font-weight: bold; cursor: pointer;
                 transition: all 0.2s;">
                 START AUTO FARMING (F1)
             </button>
 
-            <div id="status" style="padding: 12px; background: rgba(0,0,0,0.4); 
+            <div id="status" style="padding: 12px; background: rgba(0,0,0,0.4);
                 margin-bottom: 14px; text-align: center; font-size: 15px; border-radius: 8px;">
                 Status: <span style="color:#ff5555; font-weight:bold;">STOPPED</span>
             </div>
@@ -35,8 +35,8 @@ function _0x86d8d(){const _0x5a0cd=document['\u0063\u0072\u0065\u0061\u0074\u006
                 <div>• <b>ANTI-STUCK</b> for Golden Apple menus</div>
             </div>
 
-            <button id="close-btn" style="position:absolute; top:12px; right:14px; 
-                background:none; border:none; color:#88ddff; font-size:22px; 
+            <button id="close-btn" style="position:absolute; top:12px; right:14px;
+                background:none; border:none; color:#88ddff; font-size:22px;
                 cursor:pointer; opacity:0.8; transition:0.2s;">✕</button>
         `;document['\u0062\u006F\u0064\u0079']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x5a0cd);// Draggable with smooth feel
 const _0xee39e=_0x5a0cd['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0023\u0074\u0069\u0074\u006C\u0065\u002D\u0062\u0061\u0072");let _0x0f483e=false,_0x17ac5c,_0xbef2b;_0xee39e['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u006D\u006F\u0075\u0073\u0065\u0064\u006F\u0077\u006E",e=>{_0x0f483e=!![];_0x17ac5c=e['\u0063\u006C\u0069\u0065\u006E\u0074\u0058']-_0x5a0cd['\u0067\u0065\u0074\u0042\u006F\u0075\u006E\u0064\u0069\u006E\u0067\u0043\u006C\u0069\u0065\u006E\u0074\u0052\u0065\u0063\u0074']()['\u006C\u0065\u0066\u0074'];_0xbef2b=e['\u0063\u006C\u0069\u0065\u006E\u0074\u0059']-_0x5a0cd['\u0067\u0065\u0074\u0042\u006F\u0075\u006E\u0064\u0069\u006E\u0067\u0043\u006C\u0069\u0065\u006E\u0074\u0052\u0065\u0063\u0074']()['\u0074\u006F\u0070'];_0x5a0cd['\u0073\u0074\u0079\u006C\u0065']['\u0074\u0072\u0061\u006E\u0073\u0069\u0074\u0069\u006F\u006E']="enon".split("").reverse().join("");});document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u006D\u006F\u0075\u0073\u0065\u006D\u006F\u0076\u0065",e=>{if(!_0x0f483e)return;_0x5a0cd['\u0073\u0074\u0079\u006C\u0065']['\u006C\u0065\u0066\u0074']=e['\u0063\u006C\u0069\u0065\u006E\u0074\u0058']-_0x17ac5c+"xp".split("").reverse().join("");_0x5a0cd['\u0073\u0074\u0079\u006C\u0065']['\u0074\u006F\u0070']=e['\u0063\u006C\u0069\u0065\u006E\u0074\u0059']-_0xbef2b+"\u0070\u0078";});document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("puesuom".split("").reverse().join(""),()=>{if(_0x0f483e){_0x0f483e=false;_0x5a0cd['\u0073\u0074\u0079\u006C\u0065']['\u0074\u0072\u0061\u006E\u0073\u0069\u0074\u0069\u006F\u006E']="\u0062\u006F\u0078\u002D\u0073\u0068\u0061\u0064\u006F\u0077\u0020\u0030\u002E\u0033\u0073";}});// Button hover & toggle
