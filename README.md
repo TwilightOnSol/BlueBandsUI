@@ -1,10 +1,9 @@
-# BlueBandsUI
+# BlueBands UI
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A custom UI modification and automation script for the Cashapples.com web game. It provides an enhanced interface and automated farming capabilities.
 
-## Project Structure
-- Script.js
-- UI.png
-- README.md
-- Manus AI feedback & overview
+## Features
+- **Custom UI Panel**: A beautiful, draggable blue interface for game controls.
+- **Auto-Farming**: Automated logic for in-game resource gathering.
+- **Stealth Features**: Designed to remain undetected while providing enhanced functionality.
